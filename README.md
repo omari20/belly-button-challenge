@@ -1,4 +1,4 @@
-## INTRODUCTION
+### INTRODUCTION
 The interactive dashboard is one that catalogs the microbes that colonize the human navel.
 ### Data Source
 The data was pulled from [The Public Science Lab](https://robdunnlab.com/projects/belly-button-biodiversity/).
